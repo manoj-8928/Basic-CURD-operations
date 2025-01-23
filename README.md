@@ -7,6 +7,9 @@ Features :
 4) Delete a movie
 5) Display movie data in an HTML list
 Tech Stack
-Backend: Node.js, Express.js
-Database: MongoDB
+Backend:
+Node.js,
+Express.js
+Database:
+MongoDB
 ODM: Mongoose
