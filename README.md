@@ -6,6 +6,7 @@ Features :
 3) Update movie details
 4) Delete a movie
 5) Display movie data in an HTML list
+
 Tech Stack
 Backend:
 1) Node.js,
