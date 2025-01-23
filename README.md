@@ -9,8 +9,9 @@ Features :
 
 Tech Stack
 Backend:
-1) Node.js,
-2) Express.js
+Node.js,
+Express.js
+   
 Database:
-1) MongoDB
-2) ODM: Mongoose
+MongoDB
+ODM: Mongoose
