@@ -8,8 +8,8 @@ Features :
 5) Display movie data in an HTML list
 Tech Stack
 Backend:
-Node.js,
-Express.js
+1) Node.js,
+2) Express.js
 Database:
-MongoDB
-ODM: Mongoose
+1) MongoDB
+2) ODM: Mongoose
